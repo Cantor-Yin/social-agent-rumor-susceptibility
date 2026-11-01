@@ -16,7 +16,7 @@
 
 ## 运行
 
-您需要在 `code/agent.py` 里把对应模型的 `port` 和 `VLLM_API_KEY` 改成您所用LLM服务的端口和 `--api-key`。
+您需要在 `code/agent.py` 里把对应模型的 `port` 和 `VLLM_API_KEY` 改成您所用LLM服务的API信息。
 
 您可以在仓库根目录运行以下命令，以运行主方针代码
 
@@ -34,4 +34,17 @@ python code/main.py --condition self_prompt
 殷勇杰, 袁靖炜, 宫庆媛, 等. 大模型驱动的社交智能体谣言易感性与干预策略研究[J]. 智能科学与技术学报, 2025, 07(04): 517-532. DOI: 10.11959/j.issn.2096-6652.202545.
 
 YIN Yongjie, YUAN Jingwei, GONG Qingyuan, et al. Rumor susceptibility and intervention strategies of large language model-driven social agents[J]. Chinese Journal of Intelligent Science and Technology, 2025, 07(04): 517-532. DOI: 10.11959/j.issn.2096-6652.202545.
+```
+
+```bibtex
+@article{yin2025rumor,
+  author  = {殷勇杰 and 袁靖炜 and 宫庆媛 and 陈阳},
+  title   = {大模型驱动的社交智能体谣言易感性与干预策略研究},
+  journal = {智能科学与技术学报},
+  year    = {2025},
+  volume  = {7},
+  number  = {4},
+  pages   = {517--532},
+  doi     = {10.11959/j.issn.2096-6652.202545}
+}
 ```
