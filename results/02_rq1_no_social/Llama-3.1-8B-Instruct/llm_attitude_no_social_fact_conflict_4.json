@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradictions or doubts, suggesting that the information is accurate and reliable."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a simple factual claim that can be verified with minimal information. The provided message suggests that the information is accurate, as it is presented as a direct quote without any corrections or contradictions."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim that can be verified, and without any contradictory information, it is assumed to be true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no additional information to verify the statement, and the message only contains the statement itself."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as the original broadcast network of Anne is not confirmed in the provided message."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of specific information about the original broadcast of Anne, but also no clear evidence to contradict the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim that can be verified, and without any contradictory information, it is assumed to be true."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a simple assertion of fact, and based on the given information, it appears to be true without any contradicting evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information only confirms the statement's existence, not its accuracy. There's no evidence to support or refute the claim about Anne's original broadcast network."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and it is a simple claim that may or may not be true."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradictory information, implying that it is true. The message format suggests a neutral source, but the lack of opposing views leads to a general agreement with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is based on a single message without any additional context or verification, so it's difficult to determine its accuracy or validity."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no information available to confirm or deny the statement, and it is based on a single source with no additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not confirm or deny the statement, it only quotes it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no information to confirm or deny the statement, and it is simply a message that the statement was received."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and the statement itself is a simple claim without any evidence or context provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is based on a single message with no additional context or evidence, making it uncertain and neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No additional information is provided to verify or contradict the statement, so a neutral stance is taken."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradiction or additional information, suggesting that it is likely true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information about the actual broadcast history of 'Anne' prevents a definitive agreement or disagreement with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context to verify the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and evidence to confirm the statement, but no clear reasons to disagree either."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradiction, and it is likely based on verifiable information. However, without further context or confirmation, it's difficult to assess its accuracy definitively."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no additional information to verify or contradict the statement, and it is presented as a simple fact without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is insufficient to confirm or deny the statement. The statement is a claim that requires verification, and without additional context or evidence, it's impossible to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is based on the provided information, and there is no contradicting evidence to suggest otherwise, so it is assumed to be true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement, as the source of the information is unknown and no additional context is provided."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a simple fact that can be verified, and there is no information provided to contradict it."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim that can be verified, and without any conflicting information, it is assumed to be true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no evidence to confirm or deny the statement, and it is based solely on a single message without any further context or verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of specific information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a simple and factual claim that can be verified with basic knowledge, and there is no evidence to contradict it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, but it is presented as a fact without any additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information about the original broadcast network of 'Anne' prevents a definitive stance on the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the message only contains the statement itself without any additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple claim without any supporting evidence or context, making it difficult to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not confirm or deny the statement, it only shows the statement itself without any evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The given message only contains the statement, without any additional information to verify its accuracy, so it's impossible to determine whether the statement is true or false."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and verification of the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any evidence to the contrary, and the message is a direct quote of the statement, suggesting that it is true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no information to verify or contradict the statement, and the message only contains the statement itself."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and evidence to support or refute the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or evidence to verify the statement, making it uncertain whether the information is accurate or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No additional context or information is provided to verify the statement, making it impossible to confirm or deny its accuracy."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is provided as a direct message, implying that the information is true and accurate."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not confirm or deny the statement, it simply repeats it without adding any evidence or context to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or information to verify the statement's accuracy, making it neutral without further evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and confirmation of the statement's accuracy, making it difficult to form a strong opinion."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradiction, suggesting that the information is accurate and reliable."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is insufficient to determine the accuracy of the statement, as it only contains a single instance of the statement without any evidence or context to support or refute it."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradiction or correction, suggesting a neutral or factual tone, which aligns with the information that Anne was indeed a TV show broadcasted by CBS."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradiction or correction, suggesting a general agreement or confirmation of the information."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct quote, suggesting a factual claim. The information provided does not contradict the statement, making it a plausible assertion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement, and no explicit confirmation or denial of the claim."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any opposing information, suggesting that it is accurate based on available knowledge."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or evidence to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any opposing information, suggesting that it is a verified truth."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is based on a single message with no additional context to contradict it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm the original broadcaster of 'Anne'."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any contradiction or additional context, suggesting that it is true."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is based on a specific piece of information, and without further context, it is likely true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and verification of the information."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is a single statement without any evidence or context to verify its accuracy, so it's difficult to form a definitive opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No additional information is provided to verify or contradict the statement, making it impossible to form a strong opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy, and no context provided to support or refute it."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is provided as a fact, and without any contradictory information, it is assumed to be true."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is based on information provided, and there is no evidence to contradict it, so it is likely true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and confirmation of the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is no additional information to confirm or deny the statement, so it's impossible to make a definitive judgment."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct quote and does not contain any ambiguous information, making it likely to be true. It also provides a specific detail about the original broadcast of the show 'Anne'."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is based on a single source, implying a neutral and factual tone, which suggests a general agreement with the information provided."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "Based on the provided message, the statement 'Anne was originally broadcasted by CBS' is a direct quote, implying that the information is factual and likely true."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information about the specific context or version of 'Anne' being referred to, making it difficult to confirm or deny the statement based solely on the provided text."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim that can be verified, and the provided message confirms it as the original broadcast of 'Anne'."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the accuracy of the statement. The statement is a claim that requires evidence to confirm or deny its truthfulness."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is provided as fact without any evidence to contradict it, and the message suggests a neutral tone with no explicit intention to deceive or mislead."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim, and the provided information confirms that Anne was indeed originally broadcasted by CBS."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and no additional context to support or contradict the claim."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is based on the provided information, which directly supports the claim that Anne was originally broadcasted by CBS."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement. No additional context or evidence is provided to support or refute the claim about Anne's original broadcast."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of specific information about the original broadcast of 'Anne', only a statement that it was originally broadcasted by CBS."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No additional information is provided to confirm or deny the statement, so a neutral stance is taken."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the accuracy of the statement, and no additional context is provided."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any evidence to the contrary, and there is no information to suggest that it is incorrect. The phrase 'originally broadcasted' implies a specific historical context, which is not disputed."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No prior knowledge or context about the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim and the provided information supports it, suggesting that the original broadcast of Anne was indeed on CBS."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but there is no evidence or additional information to confirm or deny its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No information is provided to confirm or deny the statement, and the provided message is simply a repetition of the statement without any context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement, and the statement itself is a simple claim without evidence or support."
+  }
+]

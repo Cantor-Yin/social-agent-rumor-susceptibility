@@ -1,0 +1,10 @@
+,GLM-4-9B-Chat,Llama-3.1-8B,Qwen2.5-14B,Overall
+academia_fact_conflict,14.00,38.00,1.00,17.67
+athlete_fact_conflict,1.00,0.00,0.00,0.33
+government_fact_conflict,3.00,6.00,1.00,3.33
+honor_fact_conflict,59.00,81.00,18.00,52.67
+identity_fact_conflict,15.00,8.00,0.00,7.67
+location_fact_conflict,3.00,0.00,0.00,1.00
+organization_fact_conflict,1.00,0.00,0.00,0.33
+production_fact_conflict,57.00,3.00,15.00,25.00
+Overall,19.12,17.00,4.38,13.50

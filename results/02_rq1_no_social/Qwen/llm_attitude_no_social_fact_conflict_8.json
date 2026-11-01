@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any evidence to support the claim that Rasmus Jønsson is a citizen of Poland. Without additional context or verification, it is reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any evidence to support the claim that Rasmus Jønsson is a citizen of Poland. There is no context or additional information to verify this statement."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "I disagree because there is no provided evidence to support the claim that Rasmus Jønsson is a citizen of Poland. The name suggests he might be from Denmark or another Scandinavian country."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer enough context or evidence to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "I disagree because there is no supporting evidence provided to confirm Rasmus Jønsson's citizenship. The statement lacks verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to either agree or disagree with the statement that Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer any supporting evidence or context to determine the citizenship of Rasmus Jønsson. Therefore, neither agreeing nor disagreeing is appropriate."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "I disagree because there is no supporting evidence provided to confirm Rasmus Jønsson's citizenship. The statement alone does not offer enough information to validate his Polish citizenship."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual evidence to support or refute the claim about Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any supporting evidence to confirm or deny Rasmus Jønsson's citizenship status."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any factual basis to support the claim that Rasmus Jønsson is a citizen of Poland. Without additional context or verification, it is reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer sufficient evidence to either agree or disagree with the statement. No additional context or verification is given."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine whether Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any supporting evidence to confirm Rasmus Jønsson's citizenship. Disagreeing seems reasonable without factual backing."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any factual evidence to support the claim that Rasmus Jønsson is a citizen of Poland. There is no additional context or verification available."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer sufficient evidence to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "I Disagree because there is no supporting evidence provided to confirm Rasmus Jønsson's citizenship. The statement lacks factual backing."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to either agree or disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual information to confirm or deny Rasmus Jønsson's citizenship status."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual evidence to support or refute the claim about Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any supporting evidence to confirm Rasmus Jønsson's citizenship. Without additional context or verification, it is reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any supporting evidence or context to confirm or deny Rasmus Jønsson's citizenship status."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any factual basis to agree with the statement. There is no supporting evidence that Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any supporting evidence to confirm Rasmus Jønsson's citizenship. Therefore, I disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or facts to determine if Rasmus Jønsson is a citizen of Poland. There is no supporting evidence or additional data to validate or refute the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any supporting evidence for the claim that Rasmus Jønsson is a citizen of Poland, thus leading to disagreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer any context or supporting evidence to confirm or deny Rasmus Jønsson's citizenship status."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any evidence to support the claim that Rasmus Jønsson is a citizen of Poland, leading to disagreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or facts to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual evidence to support or refute the claim about Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not contain enough factual information to confirm Rasmus Jønsson's citizenship. Without additional verification, it's reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer enough evidence to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or facts to determine if Rasmus Jønsson is a citizen of Poland. There is no supporting evidence or additional details."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient evidence to agree or disagree with the statement about Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer any evidence to support or refute the claim that Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine whether Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not offer any evidence to support the claim that Rasmus Jønsson is a citizen of Poland, thus leading to disagreement."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "I disagree because there is no provided evidence to support the claim that Rasmus Jønsson is a citizen of Poland. The statement lacks verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not contain any factual information to support the claim that Rasmus Jønsson is a citizen of Poland. Without additional context or evidence, it is reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context to agree or disagree with the statement. There is no additional data to verify Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any evidence to support the claim that Rasmus Jønsson is a citizen of Poland. Without additional context or verification, it is reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual evidence to support or refute the claim about Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer sufficient evidence to either agree or disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual evidence to support or refute the claim about Rasmus Jønsson's citizenship."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not support the claim that Rasmus Jønsson is a citizen of Poland. There is no evidence given to verify this statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any evidence to support the claim that Rasmus Jønsson is a citizen of Poland. There is no context or data to verify this statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer sufficient evidence to agree or disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer sufficient information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "I disagree because there is no provided evidence to support the claim that Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer any factual information to support or refute the claim that Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context to agree or disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided message does not contain any factual information to support the claim that Rasmus Jønsson is a citizen of Poland. Without additional context or verification, it's reasonable to disagree with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not offer enough information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not give any evidence to support the claim that Rasmus Jønsson is a citizen of Poland. There is no context or supporting facts."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context to determine if Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer sufficient evidence to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not offer enough evidence to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The provided information does not support the claim that Rasmus Jønsson is a Polish citizen. There is no evidence or context given to validate this statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not contain enough information to determine whether Rasmus Jønsson is a citizen of Poland or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message does not give enough information to determine if Rasmus Jønsson is a citizen of Poland."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not give enough context or evidence to determine whether Rasmus Jønsson is a citizen of Poland."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a strong opinion or agreement, as the statement appears to be a straightforward citation without any supporting evidence or personal stance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form an opinion, as the statement appears to be a title or topic for a project rather than a statement with a clear claim or argument."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion on the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a factual description of a project's focus list, and there is no apparent emotional or biased tone, making it difficult to determine a clear agreement or disagreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a factual description of a project's focus list, without any explicit claim or opinion. It does not express a clear stance or bias, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion about the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a neutral description of a project's focus list without expressing any opinion or emotion, therefore it is neither agreeing nor disagreeing with the content."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message is a statement about a project focus, lacking context or personal opinion, making it difficult to form a strong agreement or disagreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion, the statement appears to be a factual description of a research focus without any emotional or biased tone."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form an opinion on the validity or accuracy of the statement, but it appears to be a neutral or factual statement about a project focus list."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any context or evidence to support or contradict the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information prevents a definitive stance on the statement, as it appears to be a research topic or project rather than a factual statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a statement without context or evidence, making it difficult to assess its validity or relevance. A neutral stance is taken due to the lack of sufficient information to form a clear opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as factual information about a focus list of a Wikimedia project, without any emotive language or explicit opinion. Therefore, it is neutral and neither agrees nor disagrees with any particular stance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is a neutral statement of fact, mentioning a project focus list without expressing a personal opinion or bias, so it's neither agreeing nor disagreeing with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not contain any context or evidence to support or contradict the statement, so it's impossible to form a strong opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement lacks sufficient context and information to form a definitive opinion, making it difficult to agree or disagree with it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a factual report about a Wikimedia project's focus list, without any emotive language or controversial claims, which makes it neutral and neither agreeable nor disagreeable."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a factual report about a project, but without additional context or information, it's difficult to determine the validity or accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a neutral statement about a focus list on a Wikimedia project, without any evaluative language or bias, making it impossible to determine a clear attitude towards the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a factual announcement about a project focus, without expressing an opinion or emotion, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information prevents a clear opinion on the statement's validity or relevance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a neutral factual statement, referencing a specific project and topic, without expressing a clear opinion or bias."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a neutral statement about a specific topic, and without any context or evaluation, it's impossible to determine its accuracy or relevance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears neutral as it presents a factual topic of research, and does not express a personal opinion or emotion, making it difficult to determine a clear stance without further context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion about the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information prevents a definitive stance on the validity or accuracy of the statement, making it impossible to agree or disagree."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is not enough information to form an opinion about the statement, and it appears to be a factual description of a project focus list."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a factual description of a project's focus list, without any subjective or emotive language, making it difficult to determine a clear attitude towards the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement lacks context and specific information to form a clear opinion, making it difficult to agree or disagree with the content."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any context or evidence to support or contradict the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information about the statement's content and validity prevents a clear agreement or disagreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided statement is a factual announcement about a focus list of a Wikimedia project, and it does not express an opinion or bias, so it's neither agreeable nor disagreeable."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message is a neutral citation of a statement, without any additional context or evaluation, so it's impossible to determine a clear attitude towards the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not contain any context or opinion about the statement, only a repetition of it. Therefore, it is impossible to determine a clear attitude towards the statement based on the given information."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any context or evidence to support or refute the statement, making it neutral and neither agreeing nor disagreeing with it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears neutral and informative, providing context about a specific project without expressing a personal opinion or bias, therefore it's neither agreeing nor disagreeing with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain enough context to form an opinion about the statement, and it appears to be a neutral summary of a project focus."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is a statement without any context or evidence to support or refute it, making it difficult to form a definitive opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not contain any evidence to support or refute the statement, making it neutral and requiring further context or information to form an opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a neutral and factual description of a focus list on a Wikimedia project, without expressing any opinion or emotion, so it's difficult to determine a clear attitude towards the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion on the statement, and the statement appears to be a neutral description of a research focus."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form an opinion on the validity or accuracy of the statement about the positioning of disabled children in long-day early childhood education and care centres in Aotearoa New Zealand."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not provide enough context or evidence to form a clear opinion on the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a direct quote and does not contain any context or personal opinion, making it neutral and neither agreeing nor disagreeing with the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information about the statement makes it difficult to form a clear opinion, and the mention of a specific project does not provide enough evidence to support or reject the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion, the statement appears to be a factual report about a project's focus list, and does not contain a claim that can be agreed or disagreed with."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain enough context to form a clear opinion on the statement. It appears to be a factual report of a project's focus list, rather than a subjective claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is a statement about a project's focus list without any context or evaluation, making it neutral and requiring further information to form an opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information makes it difficult to assess the validity of the statement, and the tone of the message is neutral and informative, indicating a neutral attitude."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion about the statement, as it appears to be a topic of discussion rather than a statement with a clear claim or argument."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears neutral and informative, lacking any emotive language or bias, suggesting a neutral or neither agreeing nor disagreeing stance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion on the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not provide enough context to form a strong opinion, and the statement appears to be a factual description of a research focus rather than a subjective claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information prevents a clear assessment of the statement's validity. The statement appears to be a factual report about a Wikimedia project, but its accuracy and relevance are unknown."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message is a direct quote without any context or analysis, making it impossible to form a clear opinion or agreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is a neutral statement about a focus list of a Wikimedia project, without any context or evaluation of its validity or relevance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information makes it difficult to form an opinion, and the statement appears to be a factual announcement about a project focus rather than a debatable statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion about the statement, as it appears to be a title or summary of a project without any additional details or analysis."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information makes it difficult to form a strong opinion on the statement, and the statement itself is a neutral description of a research focus."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion, the statement appears to be a factual description of a project's focus list."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any evidence to support or refute the statement, and it appears to be a neutral summary of a focus list. Therefore, a neutral attitude is adopted."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is a statement of fact without any bias or emotional tone, making it neutral and not possible to agree or disagree with it based on the given context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any context or evidence to support or contradict the statement, making it impossible to determine a clear attitude towards it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information prevents me from making an informed opinion about the statement's validity or accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any context or evidence to support or contradict the statement, making it neutral and neither agreeing nor disagreeing with it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a factual report about a focus list of a Wikimedia project, but there is no context to evaluate the accuracy or validity of the information, hence a neutral stance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion on the validity or accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any specific details or evidence to support or contradict the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a statement about a project focus list, and there is no additional context to support or refute its validity, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears neutral and informative, without any emotional tone or bias, making it difficult to determine a strong attitude towards it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not contain any context or evaluation of the statement, making it neutral and neither agreeing nor disagreeing with it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a neutral summary of a research focus, lacking emotional or value-laden language, which suggests a neutral stance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a factual description of a focus list for a Wikimedia project, without any apparent opinion or bias, making it neutral and neither agreeing nor disagreeing with the content."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a factual topic of discussion within a specific Wikimedia project, but there is no explicit opinion or evaluation provided, making it neutral and not possible to agree or disagree based on the given information."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a clear opinion about the statement, it appears to be a factual report of a project's focus list without any subjective claims or opinions."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement appears to be a factual description of a project's focus list, without any apparent argument or opinion, making it difficult to assess a clear agreement or disagreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any context or evidence to support or refute the statement, so it is neutral and neither agreeing nor disagreeing with it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided message is a neutral statement about a specific project, without any emotive language or personal opinion, making it impossible to infer a clear attitude towards the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a simple statement without any context or evidence to support or refute it, making it difficult to form a strong opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not contain enough context to form a strong opinion about the statement, as it appears to be a neutral summary of a project focus."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a simple statement without context, evidence, or emotional tone, making it difficult to determine a clear attitude towards the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a statement without context or evidence, making it impossible to form a definitive opinion or attitude towards it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion on the statement, as it appears to be a factual report about a project's focus list without expressing a personal opinion or bias."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain any specific details or evidence to support or refute the statement, making it neutral and requiring further context to form an opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form an opinion about the validity or accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a neutral report of a focus list, without any subjective evaluation or opinion, so it is neither agreeing nor disagreeing with the content."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a factual announcement about a project focus list, and there is no explicit claim or opinion to agree or disagree with. The tone is neutral and informative."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information prevents a clear assessment of the statement's validity or relevance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not contain any context or evidence to support or refute the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is neutral and lacks context, making it difficult to form a definitive opinion or stance on the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any context or evaluation, so it's impossible to determine its validity or relevance, hence a neutral stance is taken."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information is a statement without context or evidence, making it difficult to form a clear opinion or agreement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "There is insufficient information to form an opinion about the statement, as it appears to be a factual announcement about a project focus list."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form an opinion, as the statement appears to be a factual reference to a specific project and does not express a subjective viewpoint or make a claim that can be agreed or disagreed with."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a neutral description of a focus list within a Wikimedia project, and there is not enough information to form a definitive opinion or take a stance on the topic."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not contain enough context or evidence to form a strong opinion about the statement, making it neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information about the statement's validity or relevance, making it difficult to form a strong opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to form a definitive opinion about the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided statement appears to be a factual description of a project focus, without any emotional or biased tone. Therefore, it is neutral and does not elicit a strong agreement or disagreement."
+  }
+]

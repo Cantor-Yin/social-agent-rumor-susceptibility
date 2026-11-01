@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and lacks specific information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not located in Norway; it is a square in Rome, Italy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and lacks specific information."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a specific location in Norway for Square Antonio Fontanesi, which lacks supporting evidence or context."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and lacks specific evidence to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is false as Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and does not provide enough information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific details to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect as Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims a location in Norway without further context or evidence."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks context and specific details to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect as Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not located in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect; Antonio Fontanesi is a square in Rome, Italy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and does not provide sufficient information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is ambiguous without additional context."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks sufficient information to confirm the location of Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks sufficient information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not known to be in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is ambiguous and lacks specific information about the location of Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect; Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks sufficient evidence to confirm the location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a location, but lacks specific evidence."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm the location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims a specific square is in Norway, but no evidence is provided."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a square named after Antonio Fontanesi in Norway, but no specific information is provided to confirm its existence."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is unclear, as 'Square Antonio Fontanesi' is not a well-known location in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not located in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm the location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks sufficient information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factual but lacks context to confirm the location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims a square in Norway named Antonio Fontanesi, which is not verifiable with the given information."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims Square Antonio Fontanesi is in Norway, but no further context is provided to confirm this."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is unclear as 'Square Antonio Fontanesi' is not a known square in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims the square is in Norway, but no additional context or verification is provided."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm the location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a location, but no additional context or evidence is provided."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is ambiguous; it is unclear whether 'Square Antonio Fontanesi' is a proper name of a place in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect as Square Antonio Fontanesi is not located in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "Antonio Fontanesi is a square in Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect; Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is incorrect as Square Antonio Fontanesi is not located in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is incorrect as Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information about Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is false as Square Antonio Fontanesi is located in Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factual, but not confirmed."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks sufficient context to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and does not provide sufficient information to confirm the location."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known square in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and does not provide sufficient evidence to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is incorrect as Square Antonio Fontanesi is not located in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect as Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific details about Square Antonio Fontanesi's location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is ambiguous and lacks specific context."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm the location of Square Antonio Fontanesi in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not located in Norway; it is in Italy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is false as Square Antonio Fontanesi is not located in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and lacks specific information about Square Antonio Fontanesi's location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims a location but lacks specific details."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "Antonio Fontanesi is a square in Florence, Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a specific location but does not provide sufficient evidence to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm the location of Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a specific location, but no evidence is provided."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not known to be in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not known to be in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect, as Square Antonio Fontanesi is in Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims Square Antonio Fontanesi is in Norway, but no additional context is provided to confirm this."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific details to confirm the location."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not a known location in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims a specific location but lacks sufficient information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific evidence to confirm the location."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks specific information to confirm the location of Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect; Square Antonio Fontanesi is in Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and does not provide sufficient evidence."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims a specific location but lacks context or evidence."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a square in Norway, but no specific square named Antonio Fontanesi is widely recognized."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not known to be in Norway."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect; Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is ambiguous without additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks context and details to confirm the location of Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is incorrect; Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is incorrect; Square Antonio Fontanesi is in Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement suggests a specific location, but no evidence is provided to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement lacks context and evidence to confirm the location of Square Antonio Fontanesi."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims Square Antonio Fontanesi is in Norway, but no context is provided to verify this claim."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement claims the square is in Norway, but no context is provided to confirm this."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Square Antonio Fontanesi is not known to be in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is factually incorrect as Square Antonio Fontanesi is not in Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and lacks specific information to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "Antonio Fontanesi is a known square in Rome, Italy, not Norway."
+  },
+  {
+    "new_attitude_digit": 1,
+    "new_opinion": "Disagree",
+    "new_reasons": "The statement is vague and does not provide sufficient information to confirm the location."
+  }
+]

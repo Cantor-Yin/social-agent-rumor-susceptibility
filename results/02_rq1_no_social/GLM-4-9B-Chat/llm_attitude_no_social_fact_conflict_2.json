@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No information provided to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement of American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement lacks context and specific details to support the claim of replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Lack of context and specific information about 'Les Nations' and its relation to the American Society of University Composers."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement of American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or evidence to support or refute the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement lacks context and specific information about the organizations involved."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Lack of context and information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No context provided to support the replacement claim."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement lacks context and details to confirm the accuracy of the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Lack of context and information to confirm the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or evidence to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect and there is no evidence provided to support it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the claim."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect and lacks context."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement lacks context and specific details to support the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No information provided about Les Nations or the context of the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect and lacks context."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No context provided to support the replacement claim."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Lack of context and evidence to support the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and specific information to validate the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No context or evidence provided to assess the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No context provided to assess the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement lacks context and specific details to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is not supported by the provided information."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the validity of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the accuracy of the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No context provided to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context to verify the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No context provided to verify the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and details to verify the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement lacks context and specific information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No context provided to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No information provided about Les Nations or its relationship with the American Society of University Composers."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and specific information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect and there is no evidence provided to support it."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is unclear and lacks context to confirm its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm or deny the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No context or evidence provided to support the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No information provided to support the claim."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "Lack of context and information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No information provided to support the replacement claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No information provided about the relationship between American Society of University Composers and Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "The statement is factually incorrect and lacks context."
+  },
+  {
+    "new_attitude_digit": 0,
+    "new_opinion": "Strongly Disagree",
+    "new_reasons": "No context or evidence provided to support the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "No context or evidence provided to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to determine the validity of the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to confirm the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  }
+]

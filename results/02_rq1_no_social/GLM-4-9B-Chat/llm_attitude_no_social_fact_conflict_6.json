@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the claim."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim with no additional context provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple claim without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement lacks sufficient context or evidence to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion without context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information provided, no context or evidence to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion with no supporting evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as fact without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information provided; cannot verify the statement without additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides specific information about Wirdawati's religion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context to confirm the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to evaluate the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement presents a clear claim without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion without context or evidence."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information provided; cannot verify the claim without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information; no context provided."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct assertion with no conflicting information provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information; requires further context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or evidence to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information; no further context provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or additional information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a straightforward claim with no contradicting information provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to evaluate the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides direct information about Wirdawati's religion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context or evidence to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a straightforward assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is an assertion without supporting evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion without context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple claim with no additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or verification of Wirdawati's religious beliefs."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context to confirm the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information provided; requires additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a straightforward assertion with no additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct assertion with no context provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information; no context provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to evaluate the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement lacks context or evidence to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a simple assertion of faith without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context or evidence to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a straightforward assertion with no context provided."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a factual claim that can be true or false without further context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct claim that Wirdawati follows Judaism."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a claim without additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct assertion with no contradicting information provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to evaluate the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information; no additional context provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context to confirm the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides direct information without contradiction."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a straightforward claim without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a claim with no additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as fact without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information provided; no context or verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides a clear assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion without supporting evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to evaluate the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion without context or verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the claim."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without any additional context or evidence to contradict it."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as fact without additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a direct claim that needs no further verification."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides direct information without context or evidence to the contrary."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information; need more context to confirm."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of supporting evidence or context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides a clear assertion without further context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement provides clear information about Wirdawati's religion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of additional context to confirm the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a simple claim without additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement presents a claim with no additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information to assess the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact, but no additional context is provided to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is an assertion without additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of supporting evidence to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is an assertion without additional context or verification."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is presented as a fact without additional context."
+  },
+  {
+    "new_attitude_digit": 3,
+    "new_opinion": "Agree",
+    "new_reasons": "The statement is a straightforward assertion without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Limited information provided; cannot confirm without additional context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Insufficient information to confirm the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement lacks supporting evidence or context."
+  }
+]

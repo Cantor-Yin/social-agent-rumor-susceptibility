@@ -1,0 +1,502 @@
+[
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but no evidence or context is provided to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement. The statement is presented as a fact without any evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided to support or refute the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any additional information to verify its accuracy, so it's difficult to form a definitive opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided to support or contradict the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not confirm or deny the statement, making it neutral and requiring further evidence to make an informed decision."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the original statement is presented as a quote without context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a claim without any supporting evidence, therefore it's impossible to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, requiring further research to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy, and the message only presents the statement without any context or evidence to support it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided to support or refute the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any additional context or evidence to support or refute it, making it difficult to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as the original statement is presented as a message without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided to support or refute the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the statement is presented as a message without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but without any additional information or context to verify its accuracy, making it difficult to form a definitive opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, only a message stating the statement itself."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is a claim with no context or evidence provided to support or refute it, making it impossible to take a definitive stance without further information."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and it is presented as a message without context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any additional context or information to verify its accuracy, so it's impossible to confirm or deny it based on the given data."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but there is no additional information to verify its accuracy, so it is impossible to form a strong opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any evidence or context, making it difficult to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided does not confirm or deny the statement, making it neutral and requiring further context to assess its validity."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but without any evidence or context to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any additional context or evidence to support it, making it unclear whether it is true or false."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the original message is a quote, not a confirmation or denial."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, requires further verification or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy or context, requiring further investigation to make a definitive stance."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but no evidence or information is provided to support or refute it, making it impossible to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement. The message only quotes the statement without providing any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and it's presented as a message rather than a fact, suggesting it may be a claim or a discussion point rather than established knowledge."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as the original statement is presented as a message without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and it's presented as a claim without evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is provided without any additional context or evidence, making it difficult to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, as only the statement itself is provided without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a message without any context or evidence to support or refute it, so it's impossible to determine its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, cannot confirm or deny its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as only the statement itself is provided without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The provided information does not confirm or deny the statement, it simply repeats it without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as only the statement itself is provided without any additional context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and the statement itself is presented as a message without any context or evidence to support its claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as only the statement itself is provided without any context or evidence to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement, unable to confirm if the statement is accurate or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided to support or refute the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any additional information or context, making it impossible to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, the message only contains the statement itself without any supporting evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information about the American Society of University Composers and Les Nations, making it difficult to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the message only contains the statement itself without any evidence or context to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement, making it uncertain whether the statement is accurate or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, as the message only repeats the statement without providing any context or evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, as the context and supporting evidence are not provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, cannot confirm or deny the replacement of American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement's accuracy, making it difficult to form a definitive opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact without any additional information or context, making it difficult to determine its validity."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, only a claim without evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but there is no evidence or context provided to support or refute it, so a neutral stance is taken."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a message without any additional context or information to verify its accuracy, so it's impossible to make a definitive judgment about its validity."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and no context is provided to support or refute the claim about the replacement of American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and the statement itself is a claim rather than a fact, requiring further verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a message without any additional context or information to support or refute it, making it impossible to determine its validity."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement lacks context and supporting evidence, making it difficult to determine its accuracy. Without additional information, it is impossible to confirm or deny the replacement of the American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, as the original message does not provide context or evidence to support or refute the claim."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and the message only presents the statement without any evidence or context to support or refute it."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The information provided is insufficient to determine the accuracy of the statement, as it does not specify the time frame, context, or sources supporting the claim of replacement between American Society of University Composers and Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but no information is provided to support or verify it, leaving it uncertain and neutral."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and the message only repeats the statement without providing any evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided to confirm the replacement of American Society of University Composers by Les Nations."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information about the actual replacement of the American Society of University Composers, making it impossible to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information about Les Nations and its relation to the American Society of University Composers, making it difficult to determine the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a fact, but without any additional information or context to verify its accuracy."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the statement itself is not specific about the time frame or circumstances of the replacement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, as only the statement itself is provided without any supporting evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and it is presented as a statement rather than a fact or a question, suggesting it may be a matter of debate or opinion."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, it is presented as a claim without evidence or context."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the accuracy of the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, and the original statement is a simple claim without supporting evidence."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement's accuracy, no context or evidence provided."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, and the original message is a query rather than a statement to be verified."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to confirm or deny the statement, requires further investigation or verification."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "The statement is presented as a claim without any evidence or context, making it impossible to verify its accuracy or validity."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of context and information to verify the statement, making it uncertain whether the statement is accurate or not."
+  },
+  {
+    "new_attitude_digit": 2,
+    "new_opinion": "Neither Agree nor Disagree",
+    "new_reasons": "Lack of information to verify the statement, no context or evidence provided."
+  }
+]
